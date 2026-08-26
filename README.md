@@ -20,3 +20,7 @@ All project details, company names, URLs, and sensitive information have been an
 - Exploratory Testing
 - Defect Reporting
 - QA Documentation
+
+## Note
+
+All project details have been anonymized for confidentiality. Screenshots have been cropped and edited to remove website names, URLs, branding, and any information that could identify the application or organization.
